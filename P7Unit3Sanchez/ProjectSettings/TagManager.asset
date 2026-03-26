@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Gound
   - Obstacle
+  - Ground
   layers:
   - Default
   - TransparentFX
